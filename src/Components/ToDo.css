@@ -1,0 +1,9 @@
+.row {
+    background-color: gray;
+}
+
+.btn {
+    background-color: gray;
+    font-size: smaller;
+    font-weight: bolder;
+}

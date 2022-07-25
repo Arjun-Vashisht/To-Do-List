@@ -1,0 +1,13 @@
+.mainSec {
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 150%;
+    padding: 70px 0;
+}
+
+.data {
+    border: 1px solid gray;
+    border-radius: 30px;
+}
+
+

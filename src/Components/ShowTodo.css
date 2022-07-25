@@ -1,0 +1,9 @@
+.wrong{
+    border-radius: 9px;
+    margin-left: 70px;
+    margin-top: 10px;
+    height: 23px;
+    padding: 5px;
+    padding-top: 0;
+    background-color: rgb(181, 179, 179);
+}
